@@ -9,7 +9,7 @@
 
 # Prologue
 
-Mini medical practise menagment system is simple administration system that support basic CRUD operation . This app is written by Amir Zec as test exam. Technologies used in this project were PHP and Laravel web framework written by Taylor Otwell. Menagment system have basic admin functionality that support manipulatiion with Practise, Employees and Fields of practise. Also, this app offer simple API for returning all Practices.
+Mini medical practise menagment system is simple administration system that support basic CRUD operation . This app is written by Amir Zec as test exam. Technologies used in this project were PHP and Laravel web framework written by Taylor Otwell. Bootstrap is used as CSS framework. Menagment system have basic admin functionality that support manipulatiion with Practise, Employees and Fields of practise. Also, this app offer simple API for returning all Practices.
 
 # Gettings started
 
@@ -52,3 +52,4 @@ Password:
 GET `domain/api/practices`
 
 # Epilogue
+ Happy coding :)
