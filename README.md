@@ -13,6 +13,21 @@ Mini medical practise menagment system is simple administration system that supp
 
 # Gettings started
 
+## How to clone
+To clone this application on your computer use:
+`https://github.com/testiranjephptest/qdqdq.git`
+
+## How to use app
+
+1. Go to domain page
+2. Click on login button in navigation bar
+3. Login with default admin credentials
+Email:
+`test@outlook.com`
+Password:
+`testpassword123`
+5. Enjoy
+
 # Features
 
 # Epilogue
