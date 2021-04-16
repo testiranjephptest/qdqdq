@@ -1,4 +1,4 @@
-# : Mini medical practice management system - Introduction
+# Mini medical practice management system - Introduction
 
 # Content
 
@@ -29,5 +29,26 @@ Password:
 5. Enjoy
 
 # Features
+
+## Practices
+1. Add practices (name, email, website, logo)
+2. Edit practices
+3. Delete practices
+4. List practices ( 10 )
+5. List specific practice
+
+## Employees
+1. Add employees (firstname, lastname, email, phone)
+2. Edit employees
+3. Delete employees
+4. List employees
+
+## Fields of practices
+1. Add fields of practices specific to user
+2. Edit fields of practices
+3. Delete fields of practices
+
+## API
+GET `domain/api/practices`
 
 # Epilogue
